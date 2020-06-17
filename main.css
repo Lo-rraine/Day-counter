@@ -1,0 +1,25 @@
+body{
+    margin: 150px;
+    background: url('http://opiniojuris.org/wp-content/uploads/ey-webcast-stay-operational-resilient-during-covid-19.jpg');
+    background-repeat: repeat;
+     
+}
+
+p{
+    text-align: center;
+    font-family: 'Itim', cursive;
+    font-size: 26px;  
+    color: white;
+   
+}
+
+#format{
+    border-style: solid;
+    border-color: white;
+}
+
+#startDay,
+#today,
+#counter{
+    text-decoration: underline;
+}
