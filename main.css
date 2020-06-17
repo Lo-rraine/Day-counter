@@ -1,5 +1,5 @@
 body{
-    margin: 150px;
+    padding-top: 20px;
     background: url('http://opiniojuris.org/wp-content/uploads/ey-webcast-stay-operational-resilient-during-covid-19.jpg');
     background-repeat: repeat;
      
@@ -8,14 +8,16 @@ body{
 p{
     text-align: center;
     font-family: 'Itim', cursive;
-    font-size: 26px;  
+    font-size: 20px;  
     color: white;
-   
+   padding: 5%;
 }
 
 #format{
+    
     border-style: solid;
-    border-color: white;
+    border-color:rgba(255, 255, 255, 0.6);
+    margin: 10px;
 }
 
 #startDay,
